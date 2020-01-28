@@ -1,0 +1,16 @@
+.notifyContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 355px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  background: linear-gradient(#ff416c, #ff4b2b);
+}
+
+.notifyText {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #0f2027;
+}
